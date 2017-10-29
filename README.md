@@ -1,5 +1,8 @@
 ### Well hello there!
-## online edit of master, after test-edit branch created
+### online edit of master, after test-edit branch created
+#### another online edit to try for conflicts
+
+conflicting edit
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
